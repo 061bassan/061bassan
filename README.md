@@ -58,12 +58,6 @@ aqui.
 
 <br>
 
-## Formação
-
-Estudante de tecnologia no CEUB. Alguns trabalhos da faculdade ficam públicos neste perfil, como o
-[projeto de UX/UI](https://github.com/061bassan/projeto_UX-UI-Atividade.md) e as
-[atividades de desenvolvimento de interfaces](https://github.com/061bassan/Atividades-Ceub---Desen.-Interfaces).
-
 <div align="center">
 
 <br>
