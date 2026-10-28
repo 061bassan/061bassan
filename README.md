@@ -1,14 +1,11 @@
 <div align="center">
 
-# Rafael Bassan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1B5E57,100:D6B55F&height=180&section=header&text=Rafael%20Bassan&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20de%20software%20%C2%B7%20Bras%C3%ADlia,%20DF&descSize=16&descAlignY=58&animation=fadeIn" alt="Rafael Bassan, desenvolvedor de software, Brasília, DF">
 
-**Desenvolvedor de software · Brasília, DF**
-
-Construo sistemas em que errar custa caro: crédito, finanças e operação comercial.
-Gosto de software que admite o que não sabe, em vez de preencher a lacuna com um palpite bonito.
+Gosto de construir ferramentas que as pessoas abrem todo dia para trabalhar,
+e de deixar claro, na tela, o que o sistema sabe e o que ele ainda não sabe.
 
 <a href="https://github.com/061bassan"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D6B55F" alt="GitHub"></a>
-<a href="mailto:devbassanlopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D6B55F" alt="Gmail"></a>
 <img src="https://img.shields.io/badge/Brasília,%20DF-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00E5C4" alt="Brasília, DF">
 
 </div>
@@ -17,27 +14,29 @@ Gosto de software que admite o que não sabe, em vez de preencher a lacuna com u
 
 ## Sobre
 
-Trabalho com produtos internos, aqueles que uma equipe abre todo dia para decidir alguma coisa.
-Normalmente envolve três problemas ao mesmo tempo: dado que chega sujo de planilha, regra de negócio
-que ninguém escreveu em lugar nenhum, e uma tela que precisa caber no celular de quem está no campo.
+Trabalho com produtos que uma equipe inteira usa para decidir alguma coisa: painel, mapa,
+calendário, relatório. Quase sempre o desafio é o mesmo em três camadas: dado que chega bagunçado
+de planilha, regra de negócio que ninguém escreveu em lugar nenhum, e uma tela que precisa caber
+no celular de quem está fora do escritório.
 
-O que mais faço hoje: mapa comercial com dado público cruzado (IBGE, Sicor), calendário de
-vencimentos, painel financeiro que reprecifica indicador quando um fato muda, e landing page quando
-o cliente precisa aparecer bem rápido.
-
-### Como eu gosto de construir
-
-`valor ausente nunca vira zero` se o dado não existe, a tela diz que não existe
-
-`nada de palpite` informação de negócio entra conferida contra fonte oficial, com procedência gravada
-
-`autorização no banco` a interface só esconde o que a pessoa não pode usar, quem recusa é o servidor
-
-`medir antes de otimizar` já joguei fora melhoria minha que a medição mostrou ser piora
+Comecei pelo front e fui atrás do resto por necessidade, então hoje circulo bem entre a interface,
+o banco e o caminho que o dado faz entre os dois.
 
 <br>
 
-## Linguagens e Tecnologias
+## Como eu gosto de construir
+
+| | Na prática |
+|---|---|
+| **Dado ausente continua ausente** | Se a informação não existe, a tela diz isso em vez de mostrar zero |
+| **Toda informação tem origem** | O que vem de fora entra conferido contra a fonte, e a procedência fica gravada junto |
+| **Permissão mora no servidor** | A interface esconde o que a pessoa não pode usar, mas quem recusa de verdade é o banco |
+| **Medir antes de otimizar** | Já descartei melhoria minha depois que a medição mostrou que era piora |
+| **Escrever para quem vem depois** | Nome claro e comentário onde a decisão não é óbvia valem mais que esperteza |
+
+<br>
+
+## Linguagens e tecnologias
 
 <div align="center">
 
@@ -47,12 +46,11 @@ o cliente precisa aparecer bem rápido.
 
 <br>
 
-## Estatísticas
+## O que eu costumo construir
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=061bassan&show_icons=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=D6B55F&text_color=C9D1D9&icon_color=00E5C4" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=061bassan&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=D6B55F&text_color=C9D1D9" alt="Linguagens mais usadas">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=D6B55F&center=true&vCenter=true&width=680&height=46&lines=Pain%C3%A9is+que+a+equipe+abre+todo+dia;Mapas+e+relat%C3%B3rios+a+partir+de+dado+p%C3%BAblico;Planilha+bagun%C3%A7ada+virando+banco+organizado;Calend%C3%A1rios+e+acompanhamento+de+prazo;Landing+pages+leves+que+abrem+r%C3%A1pido" alt="Painéis, mapas e relatórios, importação de planilha, calendários e landing pages">
 
 </div>
 
@@ -71,6 +69,11 @@ Boa parte do que construo é privado, de produto interno de empresa. Converso co
 decisões por trás deles, principalmente as que deram errado na primeira tentativa.
 
 <div align="center">
+
 <br>
-<sub>Se quiser trocar ideia sobre dado sujo, crédito rural ou por que a sua planilha discorda do seu sistema, me chama.</sub>
+
+<sub>Aberto a conversar sobre projeto novo, ideia pela metade ou código que precisa de uma segunda opinião.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6B55F,40:1B5E57,100:0D1117&height=120&section=footer" alt="">
+
 </div>
