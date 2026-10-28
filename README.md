@@ -26,17 +26,22 @@ acesso e publicação em produção.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,postgres,supabase,git,github,vercel,python,figma&perline=7" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Node.js, PostgreSQL, Supabase, Git, GitHub, Vercel, Python, Figma">
+<table>
+<tr>
+<td align="right"><b>Front-end</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite&theme=dark" height="42" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite"><br><sub>React · Next.js · TypeScript · JavaScript · Tailwind · Vite</sub></td>
+</tr>
+<tr>
+<td align="right"><b>Back-end e dados</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,python&theme=dark" height="42" alt="Node.js, PostgreSQL, Supabase, Python"><br><sub>Node.js · PostgreSQL · SQL · Supabase · Python</sub></td>
+</tr>
+<tr>
+<td align="right"><b>Deploy e ferramentas</b></td>
+<td><img src="https://skillicons.dev/icons?i=vercel,git,github,figma&theme=dark" height="42" alt="Vercel, Git, GitHub, Figma"><br><sub>Vercel · Git · GitHub Actions · Playwright · Figma</sub></td>
+</tr>
+</table>
 
 </div>
-
-| | |
-|---|---|
-| **Front-end** | React, Next.js, TypeScript, Vite, Tailwind CSS |
-| **Back-end e dados** | Node.js, PostgreSQL, SQL, Supabase, Edge Functions |
-| **Infra e ferramentas** | Vercel, Git, GitHub Actions, Playwright, Figma |
-
-<br>
 
 ## Projetos
 
